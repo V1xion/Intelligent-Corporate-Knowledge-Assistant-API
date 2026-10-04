@@ -1,5 +1,4 @@
 # Intelligent Corporate Knowledge Assistant API
-# Bernard Owens Wiladjaja
 
 Simple RAG-based API untuk menjawab pertanyaan berdasarkan dokumen kebijakan internal perusahaan menggunakan **FastAPI, ChromaDB, Sentence Transformers, dan Ollama**.
 
