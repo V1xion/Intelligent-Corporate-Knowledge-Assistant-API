@@ -15,7 +15,7 @@ Pastikan sudah terinstall:
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/intelligent-corporate-knowledge-assistant.git
+git clone https://github.com/V1xion/Intelligent-Corporate-Knowledge-Assistant-API.git
 cd intelligent-corporate-knowledge-assistant
 ```
 
